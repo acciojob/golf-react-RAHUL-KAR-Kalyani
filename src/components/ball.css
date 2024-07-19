@@ -3,19 +3,19 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
-
-.start {
+  }
+  
+  .start {
     padding: 10px 20px;
     font-size: 16px;
-}
-
-.ball {
+  }
+  
+  .ball {
     width: 20px;
     height: 20px;
     background-color: red;
     position: absolute;
-    top: 50%;
-    /* Adjust as needed */
+    top: 50%; /* Adjust as needed */
     transform: translate(-50%, -50%);
-}
+  }
+  
